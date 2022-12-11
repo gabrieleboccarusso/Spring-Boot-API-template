@@ -1,6 +1,6 @@
 # Spring Boot API template
 
-This repo contains the code created in the article <a href="https://boccarusso.com/a-better-way-to-create-backends-rest-api-in-java">A better way to create backends: REST API in java</a>
+This repo contains the code created in the article <a href="https://boccarusso.com/post/a-better-way-to-create-backends-rest-api-in-java">A better way to create backends: REST API in java</a>
 
 ## Project Information
 
