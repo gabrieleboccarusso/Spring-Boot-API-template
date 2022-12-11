@@ -11,7 +11,7 @@ This repo contains the code created in the article <a href="https://boccarusso.c
 - Group: playground
 - Artifact: playground
 - Version: 1.0.0
-- Description: Playgrounf project for first Spring Boot API
+- Description: Playground project for first Spring Boot API
 - Package: playground
 - Spring Boot Version: 3.0.0
 - Dependencies:
